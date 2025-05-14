@@ -4,7 +4,7 @@
 This repository demonstrates multi-object tracking by combining the **YOLOv8** object detector with the **DeepSORT** tracker. Given an input video, the system detects objects in each frame and assigns persistent IDs as they move across frames.
 
 ## Result Example
-![Tracking Result](singlecam_tracking.PNG)
+![Tracking Result](singlecam_tracking.png)
 
 ## Features
 - Object detection using YOLOv8  
